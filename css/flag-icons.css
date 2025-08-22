@@ -24,6 +24,10 @@
   background-image: url(../flags/1x1/xx.svg);
 }
 
+.fi-ac {
+  background-image: url(../flags/4x3/ac.svg);
+}
+
 .fi-ad {
   background-image: url(../flags/4x3/ad.svg);
 }
@@ -64,6 +68,10 @@
 }
 .fi-al.fis {
   background-image: url(../flags/1x1/al.svg);
+}
+
+.fi-ak {
+  background-image: url(../flags/4x3/ak.svg);
 }
 
 .fi-am {
@@ -682,6 +690,10 @@
   background-image: url(../flags/1x1/gy.svg);
 }
 
+.fi-hi {
+  background-image: url(../flags/4x3/hi.svg);
+}
+
 .fi-hk {
   background-image: url(../flags/4x3/hk.svg);
 }
@@ -764,6 +776,10 @@
 }
 .fi-io.fis {
   background-image: url(../flags/1x1/io.svg);
+}
+
+.fi-ip {
+  background-image: url(../flags/4x3/ip.svg);
 }
 
 .fi-iq {
@@ -1023,6 +1039,10 @@
 }
 .fi-mh.fis {
   background-image: url(../flags/1x1/mh.svg);
+}
+
+.fi-mi {
+  background-image: url(../flags/4x3/mi.svg);
 }
 
 .fi-mk {
