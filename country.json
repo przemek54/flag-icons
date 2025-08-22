@@ -18,15 +18,6 @@
     "name": "Aland Islands"
   },
   {
-    "capital": "Juneau",
-    "code": "ak",
-    "continent": "North America",
-    "flag_1x1": "",
-    "flag_4x3": "flags/4x3/ak.svg",
-    "iso": true,
-    "name": "Alaska"
-  },
-  {
     "capital": "Tirana",
     "code": "al",
     "continent": "Europe",
@@ -316,7 +307,7 @@
     "name": "Bouvet Island"
   },
   {
-    "capital": "BrasÃ­lia",
+    "capital": "Brasilia",
     "code": "br",
     "continent": "South America",
     "flag_1x1": "flags/1x1/br.svg",
@@ -388,7 +379,7 @@
     "name": "Cambodia"
   },
   {
-    "capital": "YaoundÃ©",
+    "capital": "YaoundÃƒÆ’Ã‚Â©",
     "code": "cm",
     "continent": "Africa",
     "flag_1x1": "flags/1x1/cm.svg",
@@ -497,7 +488,7 @@
     "name": "Cocos (Keeling) Islands"
   },
   {
-    "capital": "BogotÃ¡",
+    "capital": "BogotÃƒÆ’Ã‚Â¡",
     "code": "co",
     "continent": "South America",
     "flag_1x1": "flags/1x1/co.svg",
@@ -524,7 +515,7 @@
     "name": "Cook Islands"
   },
   {
-    "capital": "San JosÃ©",
+    "capital": "San JosÃƒÆ’Ã‚Â©",
     "code": "cr",
     "continent": "North America",
     "flag_1x1": "flags/1x1/cr.svg",
@@ -557,7 +548,7 @@
     "flag_1x1": "flags/1x1/cw.svg",
     "flag_4x3": "flags/4x3/cw.svg",
     "iso": true,
-    "name": "CuraÃ§ao"
+    "name": "CuraÃƒÆ’Ã‚Â§ao"
   },
   {
     "capital": "Nicosia",
@@ -584,7 +575,7 @@
     "flag_1x1": "flags/1x1/ci.svg",
     "flag_4x3": "flags/4x3/ci.svg",
     "iso": true,
-    "name": "CÃ´te d'Ivoire"
+    "name": "CÃƒÆ’Ã‚Â´te d'Ivoire"
   },
   {
     "capital": "Kinshasa",
@@ -743,7 +734,7 @@
     "name": "Falkland Islands"
   },
   {
-    "capital": "TÃ³rshavn",
+    "capital": "TÃƒÆ’Ã‚Â³rshavn",
     "code": "fo",
     "continent": "Europe",
     "flag_1x1": "flags/1x1/fo.svg",
@@ -806,7 +797,7 @@
     "name": "French Polynesia"
   },
   {
-    "capital": "Saint-Pierre, RÃ©union",
+    "capital": "Saint-Pierre, RÃƒÆ’Ã‚Â©union",
     "code": "tf",
     "continent": "Africa",
     "flag_1x1": "flags/1x1/tf.svg",
@@ -912,7 +903,7 @@
     "name": "Guadeloupe"
   },
   {
-    "capital": "HagÃ¥tÃ±a",
+    "capital": "HagÃƒÆ’Ã‚Â¥tÃƒÆ’Ã‚Â±a",
     "code": "gu",
     "continent": "Oceania",
     "flag_1x1": "flags/1x1/gu.svg",
@@ -1340,7 +1331,7 @@
     "name": "Malaysia"
   },
   {
-    "capital": "MalÃ©",
+    "capital": "MalÃƒÆ’Ã‚Â©",
     "code": "mv",
     "continent": "Asia",
     "flag_1x1": "flags/1x1/mv.svg",
@@ -1421,7 +1412,7 @@
     "name": "Mexico"
   },
   {
-    "capital": "ChiÈ™inÄƒu",
+    "capital": "ChiÃƒË†Ã¢â€žÂ¢inÃƒâ€žÃ†â€™u",
     "code": "md",
     "continent": "Europe",
     "flag_1x1": "flags/1x1/md.svg",
@@ -1529,7 +1520,7 @@
     "name": "Netherlands"
   },
   {
-    "capital": "NoumÃ©a",
+    "capital": "NoumÃƒÆ’Ã‚Â©a",
     "code": "nc",
     "continent": "Oceania",
     "flag_1x1": "flags/1x1/nc.svg",
@@ -1689,7 +1680,7 @@
     "name": "Papua New Guinea"
   },
   {
-    "capital": "AsunciÃ³n",
+    "capital": "AsunciÃƒÆ’Ã‚Â³n",
     "code": "py",
     "continent": "South America",
     "flag_1x1": "flags/1x1/py.svg",
@@ -1803,7 +1794,7 @@
     "flag_1x1": "flags/1x1/re.svg",
     "flag_4x3": "flags/4x3/re.svg",
     "iso": true,
-    "name": "RÃ©union"
+    "name": "RÃƒÆ’Ã‚Â©union"
   },
   {
     "capital": "Gustavia",
@@ -1812,7 +1803,7 @@
     "flag_1x1": "flags/1x1/bl.svg",
     "flag_4x3": "flags/4x3/bl.svg",
     "iso": true,
-    "name": "Saint BarthÃ©lemy"
+    "name": "Saint BarthÃƒÆ’Ã‚Â©lemy"
   },
   {
     "capital": "Jamestown",
@@ -1896,7 +1887,7 @@
     "name": "San Marino"
   },
   {
-    "capital": "SÃ£o TomÃ©",
+    "capital": "SÃƒÆ’Ã‚Â£o TomÃƒÆ’Ã‚Â©",
     "code": "st",
     "continent": "Africa",
     "flag_1x1": "flags/1x1/st.svg",
@@ -2175,7 +2166,7 @@
     "name": "Timor-Leste"
   },
   {
-    "capital": "LomÃ©",
+    "capital": "LomÃƒÆ’Ã‚Â©",
     "code": "tg",
     "continent": "Africa",
     "flag_1x1": "flags/1x1/tg.svg",
@@ -2193,7 +2184,7 @@
     "name": "Tokelau"
   },
   {
-    "capital": "NukuÊ»alofa",
+    "capital": "NukuÃƒÅ Ã‚Â»alofa",
     "code": "to",
     "continent": "Oceania",
     "flag_1x1": "flags/1x1/to.svg",
@@ -2262,7 +2253,7 @@
     "flag_1x1": "flags/1x1/tr.svg",
     "flag_4x3": "flags/4x3/tr.svg",
     "iso": true,
-    "name": "TÃ¼rkiye"
+    "name": "TÃƒÆ’Ã‚Â¼rkiye"
   },
   {
     "capital": "Kampala",
