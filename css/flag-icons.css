@@ -12,6 +12,8 @@
 }
 .fi:before {
   content: " ";
+  display: inline-block;
+  height: 1em;
 }
 .fi.fis {
   width: 1em;
