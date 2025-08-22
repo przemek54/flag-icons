@@ -18,6 +18,15 @@
     "name": "Aland Islands"
   },
   {
+    "capital": "Juneau",
+    "code": "ak",
+    "continent": "North America",
+    "flag_1x1": "",
+    "flag_4x3": "flags/4x3/ak.svg",
+    "iso": true,
+    "name": "Alaska"
+  },
+  {
     "capital": "Tirana",
     "code": "al",
     "continent": "Europe",
@@ -156,6 +165,15 @@
     "flag_4x3": "flags/4x3/az.svg",
     "iso": true,
     "name": "Azerbaijan"
+  },
+  {
+    "capital": "Ponta Delgada",
+    "code": "ac",
+    "continent": "Europe",
+    "flag_1x1": "",
+    "flag_4x3": "flags/4x3/ac.svg",
+    "iso": true,
+    "name": "Azores"
   },
   {
     "capital": "Nassau",
@@ -957,6 +975,15 @@
     "name": "Haiti"
   },
   {
+    "capital": "Honolulu",
+    "code": "hi",
+    "continent": "North America",
+    "flag_1x1": "",
+    "flag_4x3": "flags/4x3/hi.svg",
+    "iso": true,
+    "name": "Hawaii"
+  },
+  {
     "code": "hm",
     "flag_1x1": "flags/1x1/hm.svg",
     "flag_4x3": "flags/4x3/hm.svg",
@@ -1070,6 +1097,15 @@
     "flag_4x3": "flags/4x3/il.svg",
     "iso": true,
     "name": "Israel"
+  },
+  {
+    "capital": "Jerusalem",
+    "code": "ip",
+    "continent": "Asia",
+    "flag_1x1": "",
+    "flag_4x3": "flags/4x3/ip.svg",
+    "iso": true,
+    "name": "Israel and Palestine"
   },
   {
     "capital": "Rome",
@@ -1275,6 +1311,15 @@
     "flag_4x3": "flags/4x3/mg.svg",
     "iso": true,
     "name": "Madagascar"
+  },
+  {
+    "capital": "Funchal",
+    "code": "mi",
+    "continent": "Europe",
+    "flag_1x1": "",
+    "flag_4x3": "flags/4x3/mi.svg",
+    "iso": true,
+    "name": "Madeira"
   },
   {
     "capital": "Lilongwe",
